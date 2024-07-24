@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fed6c455-cc9f-42f5-b002-3f34cf79d6e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/MethodChange1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/MethodChange2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/VarChange1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/VarChange2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -53,6 +53,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.sourceCode.Java",
     "vue.rearranger.settings.migration": "true"
   }
@@ -62,13 +65,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClassStart4">
-    <configuration name="ClassStart1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ClassStart1" />
+  <component name="RunManager" selected="Application.NullMain1">
+    <configuration name="MethodChange1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ref.MethodChange1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.*" />
+          <option name="PATTERN" value="ref.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassStart2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ClassStart2" />
+    <configuration name="MethodChange2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ref.MethodChange2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.*" />
+          <option name="PATTERN" value="ref.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,35 +92,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassStart3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ClassStart3" />
+    <configuration name="NullMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ref.NullMain1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.*" />
+          <option name="PATTERN" value="ref.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClassStart4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ClassStart4" />
-      <module name="java-start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="java-start" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -135,13 +118,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VarChange1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ref.VarChange1" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ref.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarChange2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ref.VarChange2" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ref.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ClassStart4" />
-        <item itemvalue="Application.ClassStart3" />
-        <item itemvalue="Application.ClassStart2" />
-        <item itemvalue="Application.ClassStart1" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.NullMain1" />
+        <item itemvalue="Application.MethodChange2" />
+        <item itemvalue="Application.MethodChange1" />
+        <item itemvalue="Application.VarChange2" />
+        <item itemvalue="Application.VarChange1" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +167,7 @@
       <workItem from="1721293976793" duration="726000" />
       <workItem from="1721625266943" duration="335000" />
       <workItem from="1721625700271" duration="4989000" />
-      <workItem from="1721634320102" duration="7091000" />
+      <workItem from="1721634320102" duration="10634000" />
     </task>
     <servers />
   </component>
